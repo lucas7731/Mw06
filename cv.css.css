@@ -1,0 +1,215 @@
+header {
+	
+	margin-top:20px;
+	text-align:center;
+	font-size:30px;
+	background-color: rgb(190, 174, 174);
+}
+
+aside{
+	width:20%;
+	background-color:#c1ced6;
+	padding-top:20px;
+    padding-bottom:20px;	
+	float:right;
+}
+nav{
+	background-color:rgb(190, 174, 174);
+	padding-top:10px;
+	padding-bottom:10px;
+	font-size:14px;
+;
+}
+section{
+	padding-bottom:30px;
+	padding-top:30px;
+	padding-left:20px;
+	padding-right:20px;
+	background-color: rgba(199, 190, 190, 0.863)  ;
+}
+.fondbleu{
+	background-color:#2874a6;
+color:#ffffff}
+	
+tr {
+    border:0px solid #000000;
+	background-color:rgba(189, 0, 0, 0.87);
+	color: white;
+}
+.gris {
+	background-color: gray;
+	color:black;
+}
+thead,
+tfoot {
+    background-color: #ffffff;
+    color: #000000;
+}
+table{
+	width: 850px;
+	font-size: medium;
+	
+}
+.th{
+	font-size: large;
+	font-weight: bold;
+}
+.loisirs li {
+	display: inline;
+	padding-left: 10px;
+}
+label {
+    padding-right: 10px;
+	font-size: 1rem;
+}
+#img {
+	width: 75px;
+	height:75px;
+	float: right ;
+	
+	
+}
+/*
+body{
+	cursor: url("cursor.png"), pointer;
+}
+*/
+.themecouleur{
+	border: #ffffff 1px solid;
+	float: left;
+	margin-right: 5px;
+	margin-left: 10px;
+	background-color:#beaeae ;
+}
+
+
+
+#theme_bleu{
+	width: 20px;
+	display: inline-block;
+	height: 20px;
+	background-color: #2874a6;
+
+}
+
+#theme_orange{
+	width: 20px;
+	display: inline-block;
+	height: 20px;
+	background-color: #cc5500;
+	
+}
+
+#theme_gris{
+	width: 20px;
+	display: inline-block;
+	height: 20px;
+	background-color: #beaeae;
+
+}
+
+.navigation li {
+	display: inline;
+	padding-left: 30px;
+	cursor: pointer;
+	
+}
+
+.navigation li:hover{
+	text-decoration: underline;
+}
+
+#nav_mon_cv
+{
+
+}
+
+#nav_mon_site
+{
+
+}
+
+#nav_inscription
+{
+
+}
+
+#nav_connection
+{
+
+}
+
+#Inscription
+{
+    display: none;
+}
+
+#Connexion
+{
+    display: none;
+}
+
+footer{
+	background-color:#beaeae;
+	padding-top:20px;
+	padding-bottom:20px;
+	text-align:center;
+	font-size:14px;
+	color:#000000
+}
+
+.rouge{
+	color: red;
+	font-weight: lighter;
+}
+
+.vert{
+color:green;
+font-weight: lighter; 
+}
+#video{
+	width: 150px;
+	length:150px;
+	float:right;
+	margin-top: -1.4%;
+	
+	
+}
+
+#boutonplay{
+float: right;
+width:22px;
+length:22px;
+
+}
+#boutonstop{
+	float: right;
+	width:22px;
+	length:22px;
+	
+	}
+
+#dessous{
+	width: 150px;
+	length:150px;
+	float:right;
+	margin-top: -1.4%;
+}
+
+#fr{
+	float: right;
+	width:22px;
+	length:22px;
+}
+#en{
+	float: right;
+	width:22px;
+	length:22px;
+}
+.violet{
+color:#000000;
+text-decoration: none;
+}
+.violet:hover{
+	color: #000000;
+}
